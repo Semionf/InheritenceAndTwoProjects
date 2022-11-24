@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Book\Book\bin\Debug\Book.exe.config
+C:\Users\User\source\repos\Book\Book\bin\Debug\Book.exe
+C:\Users\User\source\repos\Book\Book\bin\Debug\Book.pdb
+C:\Users\User\source\repos\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Book\Book\obj\Debug\Book.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Book\Book\obj\Debug\Book.exe
+C:\Users\User\source\repos\Book\Book\obj\Debug\Book.pdb
